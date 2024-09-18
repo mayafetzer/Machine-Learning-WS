@@ -1,4 +1,5 @@
 **Project: Streamlit and GitHub Learning Repository**
+
 **Purpose:** This repository serves as a learning resource for understanding and utilizing the Streamlit framework to build interactive web applications. It also demonstrates the integration of Streamlit with popular data science libraries like Matplotlib, Pandas, and NumPy.
 
 **Prerequisites:**
