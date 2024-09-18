@@ -17,7 +17,6 @@ Navigate to the Desired Assignment:
 
 cd otr_simulation  # or liquid_liquid_extraction, distillation, or chemical_reactors
 
-
 Run the Python Script:
 
 python app.py
@@ -25,7 +24,7 @@ python app.py
 Follow the Instructions: 
 The app will provide a user interface with instructions and input fields. Enter the required parameters and observe the results.
 
-Dependencies:
+**Dependencies:**
 
 Ensure you have the following Python libraries installed:
 
