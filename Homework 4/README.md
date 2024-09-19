@@ -1,4 +1,4 @@
-**CHEG 472: Homework 3**
+**CHEG 472: Homework 4**
 
 **Project Overview:** This repository contains Python code for four homework assignments related to chemical engineering processes. Each assignment addresses a specific topic:
 
