@@ -2,8 +2,6 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.set_page_config(layout="wide", page_title="HW04_LLE", page_icon=":house:")
-
 # Function to calculate solute distribution between two phases (based on distribution ratio)
 def calculate_distribution(c_s, D):
     c_o = D * c_s  # Solute concentration in organic phase

@@ -19,7 +19,7 @@ FA0 = st.sidebar.number_input("Feed rate (mol/s)", min_value=0.1, max_value=100.
 # Reaction rate constant (k)
 k = st.sidebar.number_input("Reaction rate constant (1/s)", min_value=0.001, max_value=1.0, value=0.1, step=0.01)
 
-# Conversion (X)
+# Conversion (X)   
 X = st.sidebar.slider("Conversion (X)", min_value=0.0, max_value=1.0, value=0.75, step=0.01)
 
 # CSTR Volume Calculation
