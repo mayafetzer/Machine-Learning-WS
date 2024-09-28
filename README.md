@@ -6,7 +6,7 @@ Semester: Fall 2024
 Course: CHEG 472  
 
 ## Purpose
-This repository serves as a learning resource for understanding and utilizing the Streamlit framework to build interactive web applications. It also demonstrates the integration of Streamlit with popular data science libraries such as Matplotlib, Pandas, and NumPy.
+This repository serves as a learning resource for understanding and utilizing Python for data science and machine learning purposes. It also demonstrates the integration of Streamlit with popular data science libraries such as Matplotlib, Pandas, and NumPy.
 
 ## Prerequisites
 
