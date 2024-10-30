@@ -1,4 +1,4 @@
-# Project: Streamlit and GitHub Learning Repository
+# Project: Machine Learning WS
 
 ## Author
 Maya Fetzer  
@@ -6,7 +6,7 @@ Semester: Fall 2024
 Course: CHEG 472  
 
 ## Purpose
-This repository serves as a learning resource for understanding and utilizing Python for data science and machine learning purposes. It also demonstrates the integration of Streamlit with popular data science libraries such as Matplotlib, Pandas, and NumPy.
+This repository serves as a learning resource for understanding machine learning models and development in Python using google colab. 
 
 ## Prerequisites
 
